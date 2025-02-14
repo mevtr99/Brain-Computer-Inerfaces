@@ -54,7 +54,7 @@ Quelques éléments de l'histoire des BCI
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/01406959-5740-4c2c-b39f-925c99e31139" alt="midjourneyv2">
-  <p>image générée avec Midjourney v6 sur Mammouth.ai</p>
+  <p>image générée avec Midjourney </p>
 </div>
 
 **1791**
