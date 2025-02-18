@@ -16,12 +16,6 @@
 - **3. Google & BCIs**
 - **4. Bill Gates, Jeff Bezos & Synchron**
 - **5. Neuralink**
-- **5. Géo-politique**
-### VI - Futur de l'Humanité
-- **1. Défis**
-- **2. Enjeux éthiques et accélerationisme**
-- **3. BCIs comme solution aux AGI**
-- **4. Brain to brain communication**
 
 
 
@@ -294,9 +288,6 @@ Elon : Yeah
 Lex : quand est ce que je pourrai en avoir un ?
 Elon : probablement moins de 10 ans.
 Vision long terme + invasif
-
-### 5. Géo-politique
-
 
 
 
